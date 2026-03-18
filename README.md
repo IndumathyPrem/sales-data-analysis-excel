@@ -27,7 +27,7 @@ Analyze sales data to identify trends, fix data issues, and generate actionable 
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](/dashboard.png)
 
 ---
 
